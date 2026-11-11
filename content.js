@@ -201,7 +201,7 @@ window.PORTFOLIO = {
     email: "diveshtheekoy56@gmail.com",
     studentEmail: "dtheekoy.student2024@poly.ac.mu",
     phone: "5818 3194",
-    linkedin: "https://www.linkedin.com/in/diveshanand-theekoy-b787a9327/",
+    linkedin: "https://www.linkedin.com/in/diveshanand-theekoy/",
     github: "https://github.com/diveshtheekoy19",
     tryhackme: "https://tryhackme.com/p/diveshtheekoy56"
   }
